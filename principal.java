@@ -1,6 +1,6 @@
 package exemploContaBancaria;
 
-public class Aula05 {
+public class principal {
     public static void main(String[] args) {
         
         ContaBanco p1 = new ContaBanco();
